@@ -149,7 +149,7 @@ const experiences = [
     company_name: "Cetpa Infotech",
     icon: cetpa,
     iconBg: "#FFFF",
-    date: "June 2022 - August 2022",
+    date: "June 2024 - August 2024",
     points: [
       "Developed responsive web applications using modern frontend and backend technologies, ensuring clean UI and efficient functionality.",
       "Designed and integrated RESTful APIs for seamless data flow between client and server.",
