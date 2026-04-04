@@ -28,6 +28,7 @@ import chess from "./chess.png";
 import chatApplication from "./chatApplication.png";
 import lablelanding from "./lablelanding.png";
 import piehost from "./piehost.png"
+import financialApi from "./financialApi.png";
 
 export {
   logo,
@@ -57,4 +58,5 @@ export {
   chatApplication,
   lablelanding,
   piehost,
+  financialApi,
 };

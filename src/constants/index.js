@@ -21,6 +21,7 @@ import {
   chatApplication,
   threejs,
   piehost,
+  financialApi,
 } from "../assets";
 
 export const navLinks = [
@@ -274,6 +275,31 @@ const projects = [
     image: piehost,
     source_code_link: "https://piehost.com/tools",
   },
+  {
+    name: "Financial Record API",
+    description:
+      "Developed a backend API for managing financial records with role-based access control, validation, and dashboard summary endpoints.",
+    tags: [
+      {
+        name: "Blade",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Laravel",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SQLite",
+        color: "orange-text-gradient",
+      }
+    ],
+    image: financialApi,
+    source_code_link: "https://github.com/Ashish870code/Financial-records-api-laravel.git",
+  }
 ];
 
 export { services, technologies, experiences, testimonials, projects };
